@@ -1,1 +1,3 @@
 # PDF-GPT
+
+"PDF-GPT" is a Python-based application that leverages Streamlit and various natural language processing libraries to facilitate user-friendly and interactive exploration of multiple PDF documents. It enables users to ask questions about their uploaded PDFs and provides intelligent responses by applying language models, conversation memory, and vector representations of text chunks. The application extracts text from PDFs, segments it into manageable portions, and creates a conversational retrieval system for efficient querying. It's a versatile tool that enhances document accessibility and information retrieval, making it a valuable asset for data analysis and research tasks.
